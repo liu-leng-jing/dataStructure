@@ -14,6 +14,7 @@ public class GitTest {
         map.put("2","you");
         map.put("3","me");
         map.put("4","he");
+        map.put("5", "hot_fix commit");
 
     }
 }
