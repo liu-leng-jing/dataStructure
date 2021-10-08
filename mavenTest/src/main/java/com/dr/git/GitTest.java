@@ -12,6 +12,8 @@ public class GitTest {
         Map map = new HashMap();
         map.put("1", "hello");
         map.put("2","you");
+        map.put("3","me");
+        map.put("4","he");
 
     }
 }
