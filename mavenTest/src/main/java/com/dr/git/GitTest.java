@@ -18,6 +18,6 @@ public class GitTest {
         map.put("6", "hot_fix commit");
         map.put("7", "push test");
         map.put("8","pull Test");
-
+        map.put("9", "giteeTest");   map.put("9", "giteeTest");   map.put("9", "giteeTest");
     }
 }
